@@ -56,8 +56,8 @@
 ![Screenshot 2024-12-04 111254](https://github.com/user-attachments/assets/144ab821-fb91-436a-a1b8-244059484098)
 
 
-### Name:A.Abheek
-### Register Number:24001418
+### Name:ARAVIND G
+### Register Number:212224240014
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
